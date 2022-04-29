@@ -3042,6 +3042,7 @@ table.alt tbody tr td {
     -ms-flex-direction: column-reverse;
     flex-direction: column-reverse;
     text-align: center;
+    align-items: center;
   }
 
   .spotlight .content {
