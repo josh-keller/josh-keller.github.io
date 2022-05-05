@@ -2366,6 +2366,7 @@ input[type="radio"]:focus + label:before {
 
 figure {
   text-align: center;
+  
 }
 
 figure img {
@@ -3584,7 +3585,7 @@ table.alt tbody tr td {
 }
 
 #main > .main {
-  padding: 5em 5em 3em 5em ;
+  padding: 3em 5em 3em 5em ;
   border-top: solid 1px #dddddd;
 }
 
@@ -3781,4 +3782,14 @@ table.alt tbody tr td {
     max-width: 100%;
   }
 
+}
+
+/* Additions */
+
+.tech-list {
+  color: rgb(149,121,253);
+}
+
+#hypha {
+  background: #F0F0F2;
 }
